@@ -1,0 +1,275 @@
+{
+  "links": [
+    {
+      "code": "PojAORE",
+      "adminToken": "Z4eKxwbm5J5nhAsd7j46ILCcS3KT4pfs",
+      "destination": "https://instagram.com/azizblvd",
+      "createdAt": "2026-09-10T14:47:17.454Z",
+      "visits": [
+        {
+          "id": "4aba5rWeXaA",
+          "timestamp": "2026-09-10T14:47:29.123Z",
+          "ip": "127.0.0.1",
+          "privateIp": "127.0.0.1",
+          "device": {
+            "type": "desktop",
+            "vendor": "Unknown",
+            "model": "Unknown"
+          },
+          "os": {
+            "name": "Linux",
+            "version": "Unknown"
+          },
+          "browser": {
+            "name": "Firefox",
+            "version": "140.0"
+          },
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+          "client": {
+            "language": "en-US",
+            "platform": "Linux x86_64",
+            "screen": "1920x1080",
+            "timezone": "Asia/Jakarta",
+            "referrer": ""
+          },
+          "gps": {
+            "latitude": -1.6646,
+            "longitude": 103.62,
+            "accuracy": 25000
+          }
+        }
+      ]
+    },
+    {
+      "code": "DtXIOAg",
+      "adminToken": "NS9XaKRPmYeekaucpllPHI3ZuECvyAkg",
+      "destination": "https://instagram.com/iforiaverse",
+      "createdAt": "2026-09-10T15:11:23.166Z",
+      "visits": [
+        {
+          "id": "X0ZWMMhWKzQ",
+          "timestamp": "2026-09-10T15:11:33.526Z",
+          "ip": "127.0.0.1",
+          "privateIp": "127.0.0.1",
+          "device": {
+            "type": "desktop",
+            "vendor": "Unknown",
+            "model": "Unknown"
+          },
+          "os": {
+            "name": "Linux",
+            "version": "Unknown"
+          },
+          "browser": {
+            "name": "Firefox",
+            "version": "140.0"
+          },
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+          "client": {
+            "language": "en-US",
+            "platform": "Linux x86_64",
+            "screen": "1920x1080",
+            "timezone": "Asia/Jakarta",
+            "referrer": ""
+          },
+          "gps": {
+            "latitude": -1.6646,
+            "longitude": 103.62,
+            "accuracy": 25000
+          }
+        },
+        {
+          "id": "-fuaMZEsGI8",
+          "timestamp": "2026-09-10T15:12:24.800Z",
+          "ip": "127.0.0.1",
+          "privateIp": "127.0.0.1",
+          "device": {
+            "type": "desktop",
+            "vendor": "Unknown",
+            "model": "Unknown"
+          },
+          "os": {
+            "name": "Linux",
+            "version": "Unknown"
+          },
+          "browser": {
+            "name": "Firefox",
+            "version": "140.0"
+          },
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+          "client": {
+            "language": "en-US",
+            "platform": "Linux x86_64",
+            "screen": "1920x1080",
+            "timezone": "Asia/Jakarta",
+            "referrer": ""
+          },
+          "gps": {
+            "latitude": -1.6646,
+            "longitude": 103.62,
+            "accuracy": 25000
+          }
+        }
+      ]
+    },
+    {
+      "code": "f2CxfqI",
+      "adminToken": "Oh4jabL3n3Vpzs2yygY1fdeFAD2nXSwG",
+      "destination": "https://instagram.com/azizblvd",
+      "createdAt": "2026-09-10T15:14:38.092Z",
+      "visits": [
+        {
+          "id": "e0WMkL-kMbE",
+          "timestamp": "2026-09-10T15:15:00.511Z",
+          "ip": "127.0.0.1",
+          "privateIp": "127.0.0.1",
+          "device": {
+            "type": "desktop",
+            "vendor": "Unknown",
+            "model": "Unknown"
+          },
+          "os": {
+            "name": "Linux",
+            "version": "Unknown"
+          },
+          "browser": {
+            "name": "Firefox",
+            "version": "140.0"
+          },
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+          "client": {
+            "language": "en-US",
+            "platform": "Linux x86_64",
+            "screen": "1920x1080",
+            "timezone": "Asia/Jakarta",
+            "referrer": ""
+          },
+          "gps": {
+            "latitude": -1.6646,
+            "longitude": 103.62,
+            "accuracy": 25000
+          }
+        },
+        {
+          "id": "U2CgzjOfoZ8",
+          "timestamp": "2026-09-10T15:20:27.569Z",
+          "ip": "127.0.0.1",
+          "privateIp": "127.0.0.1",
+          "device": {
+            "type": "desktop",
+            "vendor": "Unknown",
+            "model": "Unknown"
+          },
+          "os": {
+            "name": "Linux",
+            "version": "Unknown"
+          },
+          "browser": {
+            "name": "Firefox",
+            "version": "140.0"
+          },
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+          "client": {
+            "language": "en-US",
+            "platform": "Linux x86_64",
+            "screen": "1920x1080",
+            "timezone": "Asia/Jakarta",
+            "referrer": ""
+          },
+          "gps": {
+            "latitude": -1.6646,
+            "longitude": 103.62,
+            "accuracy": 25000
+          }
+        }
+      ]
+    },
+    {
+      "code": "z-T2-pI",
+      "adminToken": "Z4NnCzifkwPr-jSGS0vtrb21qsRbB4o-",
+      "destination": "https://instagram.com/hmifunja",
+      "createdAt": "2026-09-10T16:36:12.106Z",
+      "visits": [
+        {
+          "id": "4xivvsb78GE",
+          "timestamp": "2026-09-10T16:36:36.202Z",
+          "ip": "127.0.0.1",
+          "privateIp": "127.0.0.1",
+          "device": {
+            "type": "desktop",
+            "vendor": "Unknown",
+            "model": "Unknown"
+          },
+          "os": {
+            "name": "Linux",
+            "version": "Unknown"
+          },
+          "browser": {
+            "name": "Chrome",
+            "version": "152.0.0.0"
+          },
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+          "client": {
+            "language": "en-GB",
+            "platform": "Linux x86_64",
+            "screen": "2560x1440",
+            "timezone": "Asia/Jakarta",
+            "referrer": ""
+          },
+          "gps": {
+            "latitude": -1.5985,
+            "longitude": 103.6196,
+            "accuracy": 1
+          }
+        }
+      ]
+    },
+    {
+      "code": "1yruk64",
+      "adminToken": "p5yNCTpNo6M0im7fXy0jp3OaFo4qp81K",
+      "destination": "https://instagram.com/iforiaverse",
+      "createdAt": "2026-09-11T04:46:58.776Z",
+      "visits": []
+    },
+    {
+      "code": "8mNIcHY",
+      "adminToken": "KG2onfLPyC1Ti2tYyzQb5xC6cNdgi55t",
+      "destination": "https://instagram.com/azizblvd",
+      "createdAt": "2026-09-11T04:47:27.408Z",
+      "visits": [
+        {
+          "id": "FoGLLYKAOHg",
+          "timestamp": "2026-09-11T04:47:43.982Z",
+          "ip": "127.0.0.1",
+          "privateIp": "127.0.0.1",
+          "device": {
+            "type": "desktop",
+            "vendor": "Unknown",
+            "model": "Unknown"
+          },
+          "os": {
+            "name": "Linux",
+            "version": "Unknown"
+          },
+          "browser": {
+            "name": "Firefox",
+            "version": "140.0"
+          },
+          "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0",
+          "client": {
+            "language": "en-US",
+            "platform": "Linux x86_64",
+            "screen": "1600x900",
+            "timezone": "Asia/Jakarta",
+            "referrer": ""
+          },
+          "gps": {
+            "latitude": null,
+            "longitude": null,
+            "accuracy": null
+          }
+        }
+      ]
+    }
+  ]
+}
